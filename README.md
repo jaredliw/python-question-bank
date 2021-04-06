@@ -1,2 +1,36 @@
 # leetcode-solutions
 Python solutions of problems from Leetcode.
+
+## Table of Contents
+1. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Two Sum](https://github.com/jaredliw/leetcode-solutions/blob/master/0001%20Two%20Sum.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
+2. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Add Two Numbers](https://github.com/jaredliw/leetcode-solutions/blob/master/0002%20Add%20Two%20Numbers.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
+3. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Longest Substring Without Repeating Characters](https://github.com/jaredliw/leetcode-solutions/blob/master/0003%20Longest%20Substring%20Without%20Repeating%20Characters.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+20. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Valid Parentheses](https://github.com/jaredliw/leetcode-solutions/blob/master/0020%20Valid%20Parentheses.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
+
+28. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Implement strStr()](https://github.com/jaredliw/leetcode-solutions/blob/master/0028%20Implement%20strStr().py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+58. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Length of Last Word](https://github.com/jaredliw/leetcode-solutions/blob/master/0058%20Length%20of%20Last%20Word.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+66. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Plus One](https://github.com/jaredliw/leetcode-solutions/blob/master/0066%20Plus%20One.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+67. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Add Binary](https://github.com/jaredliw/leetcode-solutions/blob/master/0067%20Add%20Binary.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary&color=08813D)
+
+69. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sqrt(x)](https://github.com/jaredliw/leetcode-solutions/blob/master/0067%20Add%20Binary.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+70. ![](https://img.shields.io/static/v1?style=plastic&label=solution-1&message=medium&color=yellow) ![](https://img.shields.io/static/v1?style=plastic&label=solution-2&message=hard&color=orange) [Climbing Stairs](https://github.com/jaredliw/leetcode-solutions/blob/master/0070%20Climbing%20Stairs.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=fibonacci&color=E9D346)
+
+125. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Valid Palindrome](https://github.com/jaredliw/leetcode-solutions/blob/master/0125%20Valid%20Palindrome.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+136. ![](https://img.shields.io/static/v1?style=plastic&label=solution-1&message=hard&color=orange) ![](https://img.shields.io/static/v1?style=plastic&label=solution-2&message=expert&color=red) ![](https://img.shields.io/static/v1?style=plastic&label=solution-3&message=easy&color=green) ![](https://img.shields.io/static/v1?style=plastic&label=solution-2&message=beginner&color=brightgreen) [Single Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0136%20Single%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC)
+
+167. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Two Sum II - Input array is sorted](https://github.com/jaredliw/leetcode-solutions/blob/master/0167%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E)
+168. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Excel Sheet Column Title](https://github.com/jaredliw/leetcode-solutions/blob/master/0168%20Excel%20Sheet%20Column%20Title.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=number-theory&color=A437CB)
+
+171. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Excel Sheet Column Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0171%20Excel%20Sheet%20Column%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=number-theory&color=A437CB)
+172. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Factorial Trailing Zeroes](https://github.com/jaredliw/leetcode-solutions/blob/master/0172%20Factorial%20Trailing%20Zeroes.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=number-theory&color=A437CB)
+
+182. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Duplicate Emails](https://github.com/jaredliw/leetcode-solutions/blob/master/0182%20Duplicate%20Emails.sql) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sql&color=C47D65)
+183. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Customers Who Never Order](https://github.com/jaredliw/leetcode-solutions/blob/master/0183%20Customers%20Who%20Never%20Order.sql) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sql&color=C47D65)
+
+217. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Contains Duplicate](https://github.com/jaredliw/leetcode-solutions/blob/master/0217%20Contains%20Duplicate.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+To be continued...
