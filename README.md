@@ -1,7 +1,9 @@
 # leetcode-solutions
+
 Python solutions of problems from Leetcode.
 
 ## Table of Contents
+
 1. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Two Sum](https://github.com/jaredliw/leetcode-solutions/blob/master/0001%20Two%20Sum.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 2. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Add Two Numbers](https://github.com/jaredliw/leetcode-solutions/blob/master/0002%20Add%20Two%20Numbers.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 3. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Longest Substring Without Repeating Characters](https://github.com/jaredliw/leetcode-solutions/blob/master/0003%20Longest%20Substring%20Without%20Repeating%20Characters.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
@@ -16,7 +18,7 @@ Python solutions of problems from Leetcode.
 67. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Add Binary](https://github.com/jaredliw/leetcode-solutions/blob/master/0067%20Add%20Binary.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary&color=08813D)
 
 69. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sqrt(x)](https://github.com/jaredliw/leetcode-solutions/blob/master/0067%20Add%20Binary.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
-70. ![](https://img.shields.io/static/v1?style=plastic&label=solution-1&message=medium&color=yellow) ![](https://img.shields.io/static/v1?style=plastic&label=solution-2&message=hard&color=orange) [Climbing Stairs](https://github.com/jaredliw/leetcode-solutions/blob/master/0070%20Climbing%20Stairs.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=fibonacci&color=E9D346)
+70. ![](https://img.shields.io/static/v1?style=plastic&label=solution-1&message=medium&color=yellow) ![](https://img.shields.io/static/v1?style=plastic&label=solution-2&message=hard&color=orange) [Climbing Stairs](https://github.com/jaredliw/leetcode-solutions/blob/master/0070%20Climbing%20Stairs.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=number-theory&color=A437CB) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=fibonacci&color=E9D346)
 
 125. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Valid Palindrome](https://github.com/jaredliw/leetcode-solutions/blob/master/0125%20Valid%20Palindrome.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
@@ -32,5 +34,19 @@ Python solutions of problems from Leetcode.
 183. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Customers Who Never Order](https://github.com/jaredliw/leetcode-solutions/blob/master/0183%20Customers%20Who%20Never%20Order.sql) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sql&color=C47D65)
 
 217. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Contains Duplicate](https://github.com/jaredliw/leetcode-solutions/blob/master/0217%20Contains%20Duplicate.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1603. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Design Parking System](https://github.com/jaredliw/leetcode-solutions/blob/master/1603%20Design%20Parking%20System.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
+
+1672. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Richest Customer Wealth](https://github.com/jaredliw/leetcode-solutions/blob/master/1672%20Richest%20Customer%20Wealth.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1805. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Different Integers in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/1805%20Number%20of%20Different%20Integers%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=regex&color=F637DD)
+
+1812. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Determine Color of a Chessboard Square](https://github.com/jaredliw/leetcode-solutions/blob/master/1812%20Determine%20Color%20of%20a%20Chessboard%20Square.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1816. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Truncate Sentence](https://github.com/jaredliw/leetcode-solutions/blob/master/1816%20Truncate%20Sentence.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 To be continued...
