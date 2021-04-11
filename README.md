@@ -37,6 +37,8 @@ Python solutions of problems from Leetcode.
 
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1523.  ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Odd Numbers in an Interval Range](https://github.com/jaredliw/leetcode-solutions/blob/master/1523%201523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=number-theory&color=A437CB) 
+
 1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1603. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Design Parking System](https://github.com/jaredliw/leetcode-solutions/blob/master/1603%20Design%20Parking%20System.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
