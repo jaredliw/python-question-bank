@@ -70,6 +70,8 @@ Python solutions of problems from Leetcode.
 
 657.
 
+706. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Design HashMap](https://github.com/jaredliw/leetcode-solutions/blob/master/0706%20Design%20HashMap.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
+
 709. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [To Lower Case](https://github.com/jaredliw/leetcode-solutions/blob/master/0709%20To%20Lower%20Case.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1108. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Defanging an IP Address](https://github.com/jaredliw/leetcode-solutions/blob/master/1108%20Defanging%20an%20IP%20Address.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
