@@ -74,6 +74,8 @@ Python solutions of problems from Leetcode.
 
 1108. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Defanging an IP Address](https://github.com/jaredliw/leetcode-solutions/blob/master/1108%20Defanging%20an%20IP%20Address.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1281. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Subtract the Product and Sum of Digits of an Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1281%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
@@ -90,7 +92,7 @@ Python solutions of problems from Leetcode.
 
 1672. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Richest Customer Wealth](https://github.com/jaredliw/leetcode-solutions/blob/master/1672%20Richest%20Customer%20Wealth.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
-1716. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Calculate Money in Leetcode Bank](https://github.com/jaredliw/leetcode-solutions/blob/master/1716%20Calculate%20Money%20in%20Leetcode%20Bank.py) ![](![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB) )
+1716. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Calculate Money in Leetcode Bank](https://github.com/jaredliw/leetcode-solutions/blob/master/1716%20Calculate%20Money%20in%20Leetcode%20Bank.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1805. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Different Integers in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/1805%20Number%20of%20Different%20Integers%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=regex&color=F637DD)
 
