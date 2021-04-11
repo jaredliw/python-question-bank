@@ -2,6 +2,10 @@
 
 Python solutions of problems from Leetcode.
 
+![File Count](https://shields-staging.herokuapp.com/github/directory-file-count/jaredliw/leetcode-solutions)
+![Lines of code](https://img.shields.io/tokei/lines/github/jaredliw/leetcode-solutions)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jaredliw/leetcode-solutions)
+
 ## Table of Contents
 
 1. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Two Sum](https://github.com/jaredliw/leetcode-solutions/blob/master/0001%20Two%20Sum.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
