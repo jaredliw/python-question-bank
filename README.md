@@ -35,9 +35,52 @@ Python solutions of problems from Leetcode.
 
 217. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Contains Duplicate](https://github.com/jaredliw/leetcode-solutions/blob/master/0217%20Contains%20Duplicate.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+231.
+
+242.
+
+258.
+
+344.
+345.
+
+374.
+
+383.
+
+389.
+
+412.
+
+434.
+
+441.
+
+455.
+
+476.
+
+520.
+
+595.
+
+605.
+
+620.
+
+657.
+
+709. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [To Lower Case](https://github.com/jaredliw/leetcode-solutions/blob/master/0709%20To%20Lower%20Case.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1108. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Defanging an IP Address](https://github.com/jaredliw/leetcode-solutions/blob/master/1108%20Defanging%20an%20IP%20Address.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
-1523.  ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Odd Numbers in an Interval Range](https://github.com/jaredliw/leetcode-solutions/blob/master/1523%201523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB) 
+1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
+
+1523. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Odd Numbers in an Interval Range](https://github.com/jaredliw/leetcode-solutions/blob/master/1523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
@@ -46,7 +89,7 @@ Python solutions of problems from Leetcode.
 1672. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Richest Customer Wealth](https://github.com/jaredliw/leetcode-solutions/blob/master/1672%20Richest%20Customer%20Wealth.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1716. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Calculate Money in Leetcode Bank](https://github.com/jaredliw/leetcode-solutions/blob/master/1716%20Calculate%20Money%20in%20Leetcode%20Bank.py) ![](![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB) )
-      
+
 1805. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Different Integers in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/1805%20Number%20of%20Different%20Integers%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=regex&color=F637DD)
 
 1812. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Determine Color of a Chessboard Square](https://github.com/jaredliw/leetcode-solutions/blob/master/1812%20Determine%20Color%20of%20a%20Chessboard%20Square.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)

@@ -11,8 +11,10 @@ class Solution(object):
             t = t.replace(char, "", 1)
         return t
 
+
 # Remove the following line in python 2:
 from functools import reduce
+
 
 class Solution(object):
     def findTheDifference(self, s, t):

@@ -13,4 +13,3 @@ class Solution(object):
             return True
         except:
             return False
-

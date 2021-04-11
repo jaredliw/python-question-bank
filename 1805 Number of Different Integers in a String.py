@@ -1,5 +1,6 @@
 import re
 
+
 class Solution(object):
     def numDifferentIntegers(self, word):
         """

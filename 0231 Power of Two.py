@@ -27,6 +27,7 @@ class Solution(object):
 # Python 3 only, python 2 has no log2 and log in python 2 is not precise
 from math import log2
 
+
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         # Runtime: 24 ms

@@ -22,6 +22,7 @@ class Solution(object):
 
 from math import sqrt
 
+
 class Solution(object):
     def climbStairs(self, n):
         """

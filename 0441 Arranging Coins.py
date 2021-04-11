@@ -1,5 +1,6 @@
 from math import sqrt
 
+
 class Solution(object):
     def arrangeCoins(self, n):
         """

@@ -11,6 +11,7 @@ class Solution(object):
 
 from collections import Counter
 
+
 class Solution(object):
     def containsDuplicate(self, nums):
         """

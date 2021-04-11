@@ -12,6 +12,7 @@ class Solution(object):
 
 from functools import reduce  # Do not need this line in python 2
 
+
 class Solution(object):
     def singleNumber(self, nums):
         """
@@ -51,6 +52,7 @@ class Solution(object):
 
 
 from collections import Counter
+
 
 class Solution(object):
     def singleNumber(self, nums):

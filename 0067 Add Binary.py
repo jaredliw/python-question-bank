@@ -14,6 +14,7 @@ class Solution(object):
 # Python 3 only
 from itertools import zip_longest
 
+
 class Solution:
     def addBinary(self, a: str, b: str) -> str:
         # Runtime: 36 ms

@@ -15,4 +15,4 @@ class Solution(object):
         :type string: str
         :rtype: str
         """
-        return ''.join(chr(ord(c) + 32) if c >= 'A' and c <= 'Z' else c for c in string)
+        return ''.join(chr(ord(c) + 32) if "A" <= c <= "Z" else c for c in string)
