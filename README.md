@@ -66,6 +66,8 @@ Python solutions of problems from Leetcode.
 
 520.
 
+551. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Student Attendance Record I](https://github.com/jaredliw/leetcode-solutions/blob/master/0551%20Student%20Attendance%20Record%20I.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 595.
 
 605.
