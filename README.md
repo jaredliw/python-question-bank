@@ -3,8 +3,8 @@
 Python solutions of problems from Leetcode.
 
 ![File Count](https://shields-staging.herokuapp.com/github/directory-file-count/jaredliw/leetcode-solutions)
-![Lines of code](https://img.shields.io/tokei/lines/github/jaredliw/leetcode-solutions)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/jaredliw/leetcode-solutions)
+![Lines of code](https://shields-staging.herokuapp.com/tokei/lines/github/jaredliw/leetcode-solutions)
+![GitHub commit activity](https://shields-staging.herokuapp.com/github/commit-activity/m/jaredliw/leetcode-solutions)
 
 ## Table of Contents
 
