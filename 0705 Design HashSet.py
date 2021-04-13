@@ -32,7 +32,6 @@ class MyHashSet(object):
         """
         return key in self.hashset
 
-
 # Your MyHashSet object will be instantiated and called as such:
 # obj = MyHashSet()
 # obj.add(key)

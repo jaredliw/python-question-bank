@@ -32,7 +32,6 @@ class MyHashMap(object):
         """
         self.hashmap.pop(key, -1)
 
-
 # Your MyHashMap object will be instantiated and called as such:
 # obj = MyHashMap()
 # obj.put(key,value)

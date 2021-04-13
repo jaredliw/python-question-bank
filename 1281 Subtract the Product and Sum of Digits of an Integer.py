@@ -17,6 +17,7 @@ class Solution(object):
 
 from functools import reduce  # Remove this line in Python 2
 
+
 class Solution(object):
     def subtractProductAndSum(self, n):
         """

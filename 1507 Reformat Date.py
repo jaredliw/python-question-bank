@@ -8,4 +8,4 @@ class Solution(object):
         # Memory: 13.5 MB
         months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
         d, m, y = date.split()
-        return "{}-{:0>2}-{:0>2}".format(y, months.index(m) + 1, d[:len(d)//2])
+        return "{}-{:0>2}-{:0>2}".format(y, months.index(m) + 1, d[:len(d) // 2])
