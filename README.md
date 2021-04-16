@@ -42,6 +42,8 @@ Python solutions of problems from Leetcode.
 
 231. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Power of Two](https://github.com/jaredliw/leetcode-solutions/blob/master/0231%20Power%20of%20Two.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+237. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Delete Node in a Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0237%20Delete%20Node%20in%20a%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=10E533) 
+     
 242. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Valid Anagram](https://github.com/jaredliw/leetcode-solutions/blob/master/0242%20Valid%20Anagram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 258. ![](https://img.shields.io/static/v1?style=plastic&label=solution-1&message=beginner&color=brightgreen) ![](https://img.shields.io/static/v1?style=plastic&label=solution-2&message=medium&color=yellow) [Add Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/0258%20Add%20Digits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
