@@ -42,8 +42,8 @@ Python solutions of problems from Leetcode.
 
 231. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Power of Two](https://github.com/jaredliw/leetcode-solutions/blob/master/0231%20Power%20of%20Two.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
-237. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Delete Node in a Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0237%20Delete%20Node%20in%20a%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=10E533) 
-     
+237. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Delete Node in a Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0237%20Delete%20Node%20in%20a%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=10E533)
+
 242. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Valid Anagram](https://github.com/jaredliw/leetcode-solutions/blob/master/0242%20Valid%20Anagram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 258. ![](https://img.shields.io/static/v1?style=plastic&label=solution-1&message=beginner&color=brightgreen) ![](https://img.shields.io/static/v1?style=plastic&label=solution-2&message=medium&color=yellow) [Add Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/0258%20Add%20Digits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
@@ -85,7 +85,7 @@ Python solutions of problems from Leetcode.
 
 744. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Find Smallest Letter Greater Than Target](https://github.com/jaredliw/leetcode-solutions/blob/master/0744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
-876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20f%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=10E533)  
+876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20f%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=10E533)
 
 933. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number of Recent Calls](https://github.com/jaredliw/leetcode-solutions/blob/master/0933%20Number%20of%20Recent%20Calls.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=queue&color=5751F0)
 
@@ -94,7 +94,7 @@ Python solutions of problems from Leetcode.
 1281. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Subtract the Product and Sum of Digits of an Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1281%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1290. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Convert Binary Number in a Linked List to Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
-      
+
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
@@ -117,7 +117,7 @@ Python solutions of problems from Leetcode.
 
 1716. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Calculate Money in Leetcode Bank](https://github.com/jaredliw/leetcode-solutions/blob/master/1716%20Calculate%20Money%20in%20Leetcode%20Bank.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
-1720.  ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Decode XORed Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1720%20Decode%20XORed%20Array) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC)
+1720. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Decode XORed Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1720%20Decode%20XORed%20Array) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC)
 
 1805. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Different Integers in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/1805%20Number%20of%20Different%20Integers%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=regex&color=F637DD)
 

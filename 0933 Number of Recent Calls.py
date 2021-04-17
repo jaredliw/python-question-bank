@@ -26,6 +26,7 @@ class RecentCounter(object):
 
 from collections import deque
 
+
 class RecentCounter(object):
     # Runtime: 264 ms
     # Memory: 18.5 MB
@@ -53,6 +54,7 @@ class RecentCounter(object):
 # Python 3 only
 from queue import Queue
 
+
 class RecentCounter:
     # Runtime: 612 ms
     # Memory: 19 MB
@@ -70,7 +72,6 @@ class RecentCounter:
         # Error -- len(self.queue)
         # Note: Queue is not iterable
         return self.queue.qsize()
-
 
 # Your RecentCounter object will be instantiated and called as such:
 # obj = RecentCounter()

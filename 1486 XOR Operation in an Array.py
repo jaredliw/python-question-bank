@@ -1,3 +1,6 @@
+from functools import reduce  # Remove this line in python2
+
+
 class Solution(object):
     def xorOperation(self, n, start):
         """
