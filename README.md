@@ -97,6 +97,8 @@ Python solutions of problems from Leetcode.
 
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1356. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Sort Integers by The Number of 1 Bits](https://github.com/jaredliw/leetcode-solutions/blob/master/1356%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
+      
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
