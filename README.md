@@ -93,6 +93,8 @@ Python solutions of problems from Leetcode.
 
 1281. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Subtract the Product and Sum of Digits of an Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1281%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1290. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Convert Binary Number in a Linked List to Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
+      
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
