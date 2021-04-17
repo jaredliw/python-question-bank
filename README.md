@@ -105,6 +105,8 @@ Python solutions of problems from Leetcode.
 
 1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 
+1480. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Running Sum of 1d Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1480%20Running%20Sum%20of%201d%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1486. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [XOR Operation in an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1486%20XOR%20Operation%20in%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 1507. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Reformat Date](https://github.com/jaredliw/leetcode-solutions/blob/master/1507%20Reformat%20Date.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
