@@ -137,4 +137,4 @@ Python solutions of problems from Leetcode.
 
 1816. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Truncate Sentence](https://github.com/jaredliw/leetcode-solutions/blob/master/1816%20Truncate%20Sentence.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
-To be continued...
+1832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check if the Sentence Is Pangram](https://github.com/jaredliw/leetcode-solutions/blob/master/1832%20Check%20if%20the%20Sentence%20Is%20Pangram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
