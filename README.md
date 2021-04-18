@@ -137,4 +137,6 @@ Python solutions of problems from Leetcode.
 
 1816. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Truncate Sentence](https://github.com/jaredliw/leetcode-solutions/blob/master/1816%20Truncate%20Sentence.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+1822. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sign of the Product of an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1822%20Sign%20of%20the%20Product%20of%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 1832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check if the Sentence Is Pangram](https://github.com/jaredliw/leetcode-solutions/blob/master/1832%20Check%20if%20the%20Sentence%20Is%20Pangram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
