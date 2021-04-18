@@ -97,6 +97,8 @@ Python solutions of problems from Leetcode.
 
 1290. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Convert Binary Number in a Linked List to Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
+1313. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Decompress Run-Length Encoded List](https://github.com/jaredliw/leetcode-solutions/blob/master/1313%20Decompress%20Run-Length%20Encoded%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) 
+
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1342. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Steps to Reduce a Number to Zero](https://github.com/jaredliw/leetcode-solutions/blob/master/1342%20Number%20of%20teps%20to%20Reduce%20a%20Number%20to%20Zero) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
