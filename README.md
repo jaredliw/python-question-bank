@@ -97,16 +97,16 @@ Python solutions of problems from Leetcode.
 
 1290. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Convert Binary Number in a Linked List to Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
-1313. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Decompress Run-Length Encoded List](https://github.com/jaredliw/leetcode-solutions/blob/master/1313%20Decompress%20Run-Length%20Encoded%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) 
+1313. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Decompress Run-Length Encoded List](https://github.com/jaredliw/leetcode-solutions/blob/master/1313%20Decompress%20Run-Length%20Encoded%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1342. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Steps to Reduce a Number to Zero](https://github.com/jaredliw/leetcode-solutions/blob/master/1342%20Number%20of%20teps%20to%20Reduce%20a%20Number%20to%20Zero) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
-      
+
 1356. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Sort Integers by The Number of 1 Bits](https://github.com/jaredliw/leetcode-solutions/blob/master/1356%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 1389. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Create Target Array in the Given Order](https://github.com/jaredliw/leetcode-solutions/blob/master/1389%20Create%20Target%20Array%20in%20the%20Given%20Order.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
-      
+
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
@@ -124,7 +124,7 @@ Python solutions of problems from Leetcode.
 1523. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Odd Numbers in an Interval Range](https://github.com/jaredliw/leetcode-solutions/blob/master/1523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1528. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Shuffle String](https://github.com/jaredliw/leetcode-solutions/blob/master/1528%20Shuffle%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
-      
+
 1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1603. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Design Parking System](https://github.com/jaredliw/leetcode-solutions/blob/master/1603%20Design%20Parking%20System.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
