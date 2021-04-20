@@ -131,6 +131,8 @@ Python solutions of problems from Leetcode.
 
 1603. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Design Parking System](https://github.com/jaredliw/leetcode-solutions/blob/master/1603%20Design%20Parking%20System.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
 
+1662. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check If Two String Arrays are Equivalent](https://github.com/jaredliw/leetcode-solutions/blob/master/1662%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1672. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Richest Customer Wealth](https://github.com/jaredliw/leetcode-solutions/blob/master/1672%20Richest%20Customer%20Wealth.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1678. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Goal Parser Interpretation](https://github.com/jaredliw/leetcode-solutions/blob/master/1678%20Goal%20Parser%20Interpretation.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
