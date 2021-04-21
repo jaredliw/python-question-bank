@@ -63,6 +63,8 @@ Python solutions of problems from Leetcode.
 
 412. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Fizz Buzz](https://github.com/jaredliw/leetcode-solutions/blob/master/0412%20Fizz%20Buzz.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+414. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Third Maximum Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0414%20Third%20Maximum%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 434. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Segments in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/0434%20Number%20of%20Segments%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 441. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Arranging Coins](https://github.com/jaredliw/leetcode-solutions/blob/master/0441%20Arranging%20Coins.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
