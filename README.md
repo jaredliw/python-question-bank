@@ -16,6 +16,8 @@ Python solutions of problems from Leetcode.
 
 28. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Implement strStr()](https://github.com/jaredliw/leetcode-solutions/blob/master/0028%20Implement%20strStr().py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+35. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Search Insert Position](https://github.com/jaredliw/leetcode-solutions/blob/master/0035%20Search%20Insert%20Position.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 58. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Length of Last Word](https://github.com/jaredliw/leetcode-solutions/blob/master/0058%20Length%20of%20Last%20Word.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 66. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Plus One](https://github.com/jaredliw/leetcode-solutions/blob/master/0066%20Plus%20One.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
