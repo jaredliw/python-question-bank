@@ -48,6 +48,8 @@ Python solutions of problems from Leetcode.
 
 258. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Add Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/0258%20Add%20Digits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+268. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Missing Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0268%20Missing%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 344. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Reverse String](https://github.com/jaredliw/leetcode-solutions/blob/master/0344%20Reverse%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E)
 345. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Reverse Vowels of a String](https://github.com/jaredliw/leetcode-solutions/blob/master/0345%20Reverse%20Vowels%20of%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E)
 
@@ -89,7 +91,7 @@ Python solutions of problems from Leetcode.
 
 876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20f%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 
-912. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sort an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0912%20Sort%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=EBF26D)
+912. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sort an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0912%20Sort%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
 933. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number of Recent Calls](https://github.com/jaredliw/leetcode-solutions/blob/master/0933%20Number%20of%20Recent%20Calls.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=queue&color=5751F0)
 
