@@ -97,7 +97,7 @@ Python solutions of problems from Leetcode.
 
 771. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Jewels and Stones](https://github.com/jaredliw/leetcode-solutions/blob/master/0771%20Jewels%20and%20Stones.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
-876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20f%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
+876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20Of%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 
 912. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sort an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0912%20Sort%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
@@ -161,6 +161,8 @@ Python solutions of problems from Leetcode.
 
 1773. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Items Matching a Rule](https://github.com/jaredliw/leetcode-solutions/blob/master/1773%20Count%20Items%20Matching%20a%20Rule.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1791. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Find Center of Star Graph](https://github.com/jaredliw/leetcode-solutions/blob/master/1791%20Find%20Center%20of%20Star%20Graph.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=graph&color=010870)
+
 1805. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Different Integers in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/1805%20Number%20of%20Different%20Integers%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=regex&color=F637DD)
 
 1812. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Determine Color of a Chessboard Square](https://github.com/jaredliw/leetcode-solutions/blob/master/1812%20Determine%20Color%20of%20a%20Chessboard%20Square.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
@@ -170,3 +172,4 @@ Python solutions of problems from Leetcode.
 1822. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sign of the Product of an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1822%20Sign%20of%20the%20Product%20of%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check if the Sentence Is Pangram](https://github.com/jaredliw/leetcode-solutions/blob/master/1832%20Check%20if%20the%20Sentence%20Is%20Pangram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+1833. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Maximum Ice Cream Bars](https://github.com/jaredliw/leetcode-solutions/blob/master/1833%20Maximum%20Ice%20Cream%20Bars.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
