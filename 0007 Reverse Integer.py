@@ -10,7 +10,7 @@ class Solution(object):
             ans = int(str(x * -1)[::-1]) * -1
         else:
             ans = int(str(x)[::-1])
-        if ((-2)**31) <= ans <= (2**31 - 1):
+        if ((-2) ** 31) <= ans <= (2 ** 31 - 1):
             return ans
         else:
             return 0
@@ -40,4 +40,5 @@ class Solution(object):
             reversed_num = -reversed_num
         if -2 ** 31 <= reversed_num <= 2 ** 31 - 1:
             return reversed_num
-        else: return 0
+        else:
+            return 0

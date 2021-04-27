@@ -1,3 +1,6 @@
+from functools import reduce  # Remove this line in Python 2
+
+
 class Solution(object):
     def minOperations(self, logs):
         """
