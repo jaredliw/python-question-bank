@@ -162,6 +162,8 @@ Python solutions of problems from Leetcode.
 
 1603. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Design Parking System](https://github.com/jaredliw/leetcode-solutions/blob/master/1603%20Design%20Parking%20System.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
 
+1629. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Slowest Key](https://github.com/jaredliw/leetcode-solutions/blob/master/1629%20Slowest%20Key.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1656. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Design an Ordered Stream](https://github.com/jaredliw/leetcode-solutions/blob/master/1656%20Design%20an%20Ordered%20Stream.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
 
 1662. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check If Two String Arrays are Equivalent](https://github.com/jaredliw/leetcode-solutions/blob/master/1662%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
