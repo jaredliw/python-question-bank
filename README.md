@@ -18,6 +18,7 @@ Python solutions of problems from Leetcode.
 
 20. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Valid Parentheses](https://github.com/jaredliw/leetcode-solutions/blob/master/0020%20Valid%20Parentheses.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
 
+27. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Remove Element](https://github.com/jaredliw/leetcode-solutions/blob/master/0027%20Remove%20Element.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 28. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Implement strStr()](https://github.com/jaredliw/leetcode-solutions/blob/master/0028%20Implement%20strStr().py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 35. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Search Insert Position](https://github.com/jaredliw/leetcode-solutions/blob/master/0035%20Search%20Insert%20Position.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
