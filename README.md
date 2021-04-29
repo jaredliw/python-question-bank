@@ -174,6 +174,8 @@ Python solutions of problems from Leetcode.
 
 1720. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Decode XORed Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1720%20Decode%20XORed%20Array) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC)
 
+1732. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Find the Highest Altitude](https://github.com/jaredliw/leetcode-solutions/blob/master/1732%20Find%20the%20Highest%20Altitude.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1773. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Items Matching a Rule](https://github.com/jaredliw/leetcode-solutions/blob/master/1773%20Count%20Items%20Matching%20a%20Rule.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1791. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Find Center of Star Graph](https://github.com/jaredliw/leetcode-solutions/blob/master/1791%20Find%20Center%20of%20Star%20Graph.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=graph&color=010870)
