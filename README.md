@@ -152,6 +152,8 @@ Python solutions of problems from Leetcode.
 
 1491. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/jaredliw/leetcode-solutions/blob/master/1491%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1502. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Can Make Arithmetic Progression From Sequence](https://github.com/jaredliw/leetcode-solutions/blob/master/1502%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB) ![](https://i mg.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
+      
 1507. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Reformat Date](https://github.com/jaredliw/leetcode-solutions/blob/master/1507%20Reformat%20Date.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 1512. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number of Good Pairs](https://github.com/jaredliw/leetcode-solutions/blob/master/1512%20Number%20of%20Good%20Pairs.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
