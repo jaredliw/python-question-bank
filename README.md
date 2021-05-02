@@ -198,6 +198,8 @@ Python solutions of problems from Leetcode.
 
 1822. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sign of the Product of an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1822%20Sign%20of%20the%20Product%20of%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1828. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Queries on Number of Points Inside a Circle](https://github.c om/jaredliw/leetcode-solutions/blob/master/1828%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+      
 1832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check if the Sentence Is Pangram](https://github.com/jaredliw/leetcode-solutions/blob/master/1832%20Check%20if%20the%20Sentence%20Is%20Pangram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 1833. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Maximum Ice Cream Bars](https://github.com/jaredliw/leetcode-solutions/blob/master/1833%20Maximum%20Ice%20Cream%20Bars.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
