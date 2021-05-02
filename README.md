@@ -186,6 +186,8 @@ Python solutions of problems from Leetcode.
 
 1732. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Find the Highest Altitude](https://github.com/jaredliw/leetcode-solutions/blob/master/1732%20Find%20the%20Highest%20Altitude.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1769. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Minimum Number of Operations to Move All Balls to Each Box](https://github.c om/jaredliw/leetcode-solutions/blob/master/1769%20Minimum%20Number%20of%20Operations% 20to%20Move%20All%20Balls%20to%20Each%20Box.py) ![](https://img.shields.io/static/v1? style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 1773. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Items Matching a Rule](https://github.com/jaredliw/leetcode-solutions/blob/master/1773%20Count%20Items%20Matching%20a%20Rule.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1791. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Find Center of Star Graph](https://github.com/jaredliw/leetcode-solutions/blob/master/1791%20Find%20Center%20of%20Star%20Graph.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=graph&color=010870)
