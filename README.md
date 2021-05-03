@@ -179,7 +179,7 @@ Python solutions of problems from Leetcode.
 
 1629. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Slowest Key](https://github.com/jaredliw/leetcode-solutions/blob/master/1629%20Slowest%20Key.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
-1637. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Widest Vertical Area Between Two Poin ts Containing No Points](https://github.com/jaredliw/leetcode-solutions/blob/master/1637%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](h ttps://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
+1637. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Widest Vertical Area Between Two Poin ts Containing No Points](https://github.com/jaredliw/leetcode-solutions/blob/master/1637%20Widest%20Vertical%20Area%20Between%20Two%20Points%20Containing%20No%20Points.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
 1656. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Design an Ordered Stream](https://github.com/jaredliw/leetcode-solutions/blob/master/1656%20Design%20an%20Ordered%20Stream.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
 
@@ -218,5 +218,4 @@ Python solutions of problems from Leetcode.
 
 1837. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Sum of Digits in Base K](https://github.com/jaredliw/leetcode-solutions/blob/master/1837%20Sum%20of%20Digits%20in%20Base%20K.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
-1844. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Replace All Digits with Characters](https://github.com/jaredliw/leetcode-solutions/blob/master/1844%20Replace%20All%20Digits%20with%20Characters.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=
-      B8E306)
+1844. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Replace All Digits with Characters](https://github.com/jaredliw/leetcode-solutions/blob/master/1844%20Replace%20All%20Digits%20with%20Characters.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
