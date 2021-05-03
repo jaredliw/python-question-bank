@@ -191,6 +191,8 @@ Python solutions of problems from Leetcode.
 
 1678. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Goal Parser Interpretation](https://github.com/jaredliw/leetcode-solutions/blob/master/1678%20Goal%20Parser%20Interpretation.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)  ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+1684. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count the Number of Consistent Strings](https://github.com/jaredliw/leetcode-solutions/blob/master/1684%20Count%20the%20Number%20of%20Consistent%20Strings.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1689. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/jaredliw/leetcode-solutions/blob/master/1689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1716. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Calculate Money in Leetcode Bank](https://github.com/jaredliw/leetcode-solutions/blob/master/1716%20Calculate%20Money%20in%20Leetcode%20Bank.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
