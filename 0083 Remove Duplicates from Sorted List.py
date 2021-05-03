@@ -13,7 +13,7 @@ class Solution(object):
         # Memory: 13.4 MB
         if head is None:
             return None
-        
+
         cur = head
         while cur.next is not None:
             if cur.next.val == cur.val:

@@ -9,4 +9,3 @@ class Solution(object):
         for idx in range(1, len(s), 2):
             s = s[:idx] + chr(ord(s[idx - 1]) + int(s[idx])) + s[idx + 1:]
         return s
-   
