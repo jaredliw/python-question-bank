@@ -147,6 +147,8 @@ Python solutions of problems from Leetcode.
 
 1389. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Create Target Array in the Given Order](https://github.com/jaredliw/leetcode-solutions/blob/master/1389%20Create%20Target%20Array%20in%20the%20Given%20Order.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1409. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Queries on a Permutation With Key](https://github.com/jaredliw/leetcode-solutions/blob/master/1409%20Queries%20on%20a%20Permutation%20With%20Key.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1431. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Kids With the Greatest Number of Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/1431%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
