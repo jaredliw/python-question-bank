@@ -139,7 +139,7 @@ Python solutions of problems from Leetcode.
 
 1290. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Convert Binary Number in a Linked List to Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
-1295. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Find Numbers with Even Number of Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py) ![](https:// img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+1295. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Find Numbers with Even Number of Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1313. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Decompress Run-Length Encoded List](https://github.com/jaredliw/leetcode-solutions/blob/master/1313%20Decompress%20Run-Length%20Encoded%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
@@ -179,7 +179,7 @@ Python solutions of problems from Leetcode.
 
 1528. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Shuffle String](https://github.com/jaredliw/leetcode-solutions/blob/master/1528%20Shuffle%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
-1588. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sum of All Odd Length Subarrays](https://github.com/jaredliw/leetcode-solutions/blob/master/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) ![](https://img.shields.io/static/v1? style=flat-square&label=&message=implementation&color=2B7697) ![](htt ps://img.shields.io/static/v1?style=flat-square&label=&message=prefix -sum&color=E8944A)
+1588. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sum of All Odd Length Subarrays](https://github.com/jaredliw/leetcode-solutions/blob/master/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](htt ps://img.shields.io/static/v1?style=flat-square&label=&message=prefix -sum&color=E8944A)
 
 1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
