@@ -145,6 +145,8 @@ Python solutions of problems from Leetcode.
 
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1329. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sort the Matrix Diag onally](https://github.com/jaredliw/leetcode-solutions/blob/master/1329%20Sort%20the%20Matrix%20Diagonally.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
+
 1342. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Steps to Reduce a Number to Zero](https://github.com/jaredliw/leetcode-solutions/blob/master/1342%20Number%20of%20teps%20to%20Reduce%20a%20Number%20to%20Zero) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 1356. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Sort Integers by The Number of 1 Bits](https://github.com/jaredliw/leetcode-solutions/blob/master/1356%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
@@ -179,7 +181,7 @@ Python solutions of problems from Leetcode.
 
 1528. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Shuffle String](https://github.com/jaredliw/leetcode-solutions/blob/master/1528%20Shuffle%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
-1588. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sum of All Odd Length Subarrays](https://github.com/jaredliw/leetcode-solutions/blob/master/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](htt ps://img.shields.io/static/v1?style=flat-square&label=&message=prefix -sum&color=E8944A)
+1588. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sum of All Odd Length Subarrays](https://github.com/jaredliw/leetcode-solutions/blob/master/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](htt ps://img.shields.io/static/v1?style=flat-square&label=&message=prefix-sum&color=E8944A)
 
 1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
