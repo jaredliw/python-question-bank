@@ -94,6 +94,8 @@ Python solutions of problems from Leetcode.
 
 520. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Detect Capital](https://github.com/jaredliw/leetcode-solutions/blob/master/0520%20Detect%20Capital.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+535. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Encode and Decode TinyURL](https://github.com/jaredliw/leetcode-solutions/blob/master/0535%20Encode%20and%20Decode%20TinyURL.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 551. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Student Attendance Record I](https://github.com/jaredliw/leetcode-solutions/blob/master/0551%20Student%20Attendance%20Record%20I.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 595. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Big Countries](https://github.com/jaredliw/leetcode-solutions/blob/master/0595%20Big%20Countries.sql) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sql&color=FCE205)
