@@ -94,7 +94,7 @@ Python solutions of problems from Leetcode.
 
 520. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Detect Capital](https://github.com/jaredliw/leetcode-solutions/blob/master/0520%20Detect%20Capital.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
-535. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Encode and Decode TinyURL](https://github.com/jaredliw/leetcode-solutions/blob/master/0535%20Encode%20and%20Decode%20TinyURL.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+535. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Encode and Decode TinyURL](https://github.com/jaredliw/leetcode-solutions/blob/master/0535%20Encode%20and%20Decode%20TinyURL.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 
 551. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Student Attendance Record I](https://github.com/jaredliw/leetcode-solutions/blob/master/0551%20Student%20Attendance%20Record%20I.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
@@ -145,7 +145,7 @@ Python solutions of problems from Leetcode.
 
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
-1329. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sort the Matrix Diag onally](https://github.com/jaredliw/leetcode-solutions/blob/master/1329%20Sort%20the%20Matrix%20Diagonally.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
+1329. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sort the Matrix Diag onally](https://github.com/jaredliw/leetcode-solutions/blob/master/1329%20Sort%20the%20Matrix%20Diagonally.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
 1342. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Steps to Reduce a Number to Zero](https://github.com/jaredliw/leetcode-solutions/blob/master/1342%20Number%20of%20teps%20to%20Reduce%20a%20Number%20to%20Zero) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
@@ -181,7 +181,9 @@ Python solutions of problems from Leetcode.
 
 1528. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Shuffle String](https://github.com/jaredliw/leetcode-solutions/blob/master/1528%20Shuffle%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
-1588. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sum of All Odd Length Subarrays](https://github.com/jaredliw/leetcode-solutions/blob/master/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](htt ps://img.shields.io/static/v1?style=flat-square&label=&message=prefix-sum&color=E8944A)
+1534. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Good Triplets](https://github.com/jaredliw/leetcode-solutions/blob/master/1534%20Count%20Good%20Triplets.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1588. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sum of All Odd Length Subarrays](https://github.com/jaredliw/leetcode-solutions/blob/master/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=prefix-sum&color=E8944A)
 
 1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
@@ -206,11 +208,15 @@ Python solutions of problems from Leetcode.
 1688. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count of Matches in Tournament](https://github.com/jaredliw/leetcode-solutions/blob/master/1688%20Count%20of%20Matches%20in%20Tournament.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 1689. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/jaredliw/leetcode-solutions/blob/master/1689%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1704. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Determine if String Halves Are Alike](https://github.com/jaredliw/leetcode-solutions/blob/master/1704%20Determine%20if%20String%20Halves%20Are%20Alike.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 1716. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Calculate Money in Leetcode Bank](https://github.com/jaredliw/leetcode-solutions/blob/master/1716%20Calculate%20Money%20in%20Leetcode%20Bank.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1720. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Decode XORed Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1720%20Decode%20XORed%20Array) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC)
 
 1732. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Find the Highest Altitude](https://github.com/jaredliw/leetcode-solutions/blob/master/1732%20Find%20the%20Highest%20Altitude.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1748. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sum of Unique Elements](https://github.com/jaredliw/leetcode-solutions/blob/master/1748%20Sum%20of%20Unique%20Elements.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 
 1769. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Minimum Number of Operations to Move All Balls to Each Box](https://github.com/jaredliw/leetcode-solutions/blob/master/1769%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
@@ -227,6 +233,7 @@ Python solutions of problems from Leetcode.
 
 1822. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sign of the Product of an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1822%20Sign%20of%20the%20Product%20of%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)  ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1827. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Minimum Operations to Make the Array Increasing](https://github.com/jaredliw/leetcode-solutions/blob/master/1827%20Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 1828. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Queries on Number of Points Inside a Circle](https://github.com/jaredliw/leetcode-solutions/blob/master/1828%20Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check if the Sentence Is Pangram](https://github.com/jaredliw/leetcode-solutions/blob/master/1832%20Check%20if%20the%20Sentence%20Is%20Pangram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
