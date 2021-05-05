@@ -167,6 +167,8 @@ Python solutions of problems from Leetcode.
 
 1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 
+1450. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Students Doing Homework at a Given Time](https://github.com/jaredliw/leetcode-solutions/blob/master/1450%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1470. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Shuffle the Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1470%20Shuffle%20the%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1476. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Subrectangle Queries](https://github.com/jaredliw/leetcode-solutions/blob/master/1476%20Subrectangle%20Queries.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
