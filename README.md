@@ -122,6 +122,8 @@ Python solutions of problems from Leetcode.
 
 807. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Max Increase to Keep City Skyline](https://github.com/jaredliw/leetcode-solutions/blob/master/0807%20Max%20Increase%20to%20Keep%20City%20Skyline.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
+832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Flipping an Image](https://github.com/jaredliw/leetcode-solutions/blob/master/0832%20Flipping%20an%20Image.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20Of%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 
 912. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sort an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0912%20Sort%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
@@ -140,6 +142,8 @@ Python solutions of problems from Leetcode.
 1290. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Convert Binary Number in a Linked List to Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 1295. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Find Numbers with Even Number of Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
+1309. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Decrypt String from Alphabet to Integer Mapping](https://github.com/jaredliw/leetcode-solutions/blob/master/1309%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 1313. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Decompress Run-Length Encoded List](https://github.com/jaredliw/leetcode-solutions/blob/master/1313%20Decompress%20Run-Length%20Encoded%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
