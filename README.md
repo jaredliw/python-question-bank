@@ -132,6 +132,8 @@ Python solutions of problems from Leetcode.
 
 1051. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Height Checker](https://github.com/jaredliw/leetcode-solutions/blob/master/1051%20Height%20Checker.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
+1078. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Occurrences After Bigram](https://github.com/jaredliw/leetcode-solutions/blob/master/1078%20Occurrences%20After%20Bigram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 1108. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Defanging an IP Address](https://github.com/jaredliw/leetcode-solutions/blob/master/1108%20Defanging%20an%20IP%20Address.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 1221. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Split a String in Balanced Strings](https://github.com/jaredliw/leetcode-solutions/blob/master/1221%20Split%20a%20String%20in%20Balanced%20Strings.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
