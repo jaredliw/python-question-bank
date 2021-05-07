@@ -95,6 +95,8 @@ Python solutions of problems from Leetcode.
 
 455. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Assign Cookies](https://github.com/jaredliw/leetcode-solutions/blob/master/0455%20Assign%20Cookies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
+504. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Base 7](https://github.com/jaredliw/leetcode-solutions/blob/master/0504%20Base%207.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 520. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Detect Capital](https://github.com/jaredliw/leetcode-solutions/blob/master/0520%20Detect%20Capital.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 535. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Encode and Decode TinyURL](https://github.com/jaredliw/leetcode-solutions/blob/master/0535%20Encode%20and%20Decode%20TinyURL.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
