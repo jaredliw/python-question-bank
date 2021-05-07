@@ -95,6 +95,8 @@ Python solutions of problems from Leetcode.
 
 455. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Assign Cookies](https://github.com/jaredliw/leetcode-solutions/blob/master/0455%20Assign%20Cookies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
+500. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Keyboard Row](https://github.com/jaredliw/leetcode-solutions/blob/master/0500%20Keyboard%20Row.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6)
+
 504. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Base 7](https://github.com/jaredliw/leetcode-solutions/blob/master/0504%20Base%207.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 520. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Detect Capital](https://github.com/jaredliw/leetcode-solutions/blob/master/0520%20Detect%20Capital.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
