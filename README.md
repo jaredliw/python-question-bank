@@ -146,6 +146,8 @@ Python solutions of problems from Leetcode.
 
 876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20Of%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 
+905. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Sort Array By Parity](https://github.com/jaredliw/leetcode-solutions/blob/master/0905%20Sort%20Array%20By%20Parity.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E)
+
 912. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sort an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0912%20Sort%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
 933. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number of Recent Calls](https://github.com/jaredliw/leetcode-solutions/blob/master/0933%20Number%20of%20Recent%20Calls.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=queue&color=5751F0)
