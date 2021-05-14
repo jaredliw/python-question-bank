@@ -175,6 +175,8 @@ Python solutions of problems from Leetcode.
 
 1313. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Decompress Run-Length Encoded List](https://github.com/jaredliw/leetcode-solutions/blob/master/1313%20Decompress%20Run-Length%20Encoded%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
+1346. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Check If N and Its Double Exist](https://github.com/jaredliw/leetcode-solutions/blob/master/1346%20Check%20If%20N%20and%20Its%20Double%20Exist.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6
+
 1418. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Display Table of Food Orders in a Restaurant](https://github.com/jaredliw/leetcode-solutions/blob/master/1418%20Display%20Table%20of%20Food%20Orders%20in%20a%20Restaurant.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6)
 
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
