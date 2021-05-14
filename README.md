@@ -144,6 +144,8 @@ Python solutions of problems from Leetcode.
 
 933. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number of Recent Calls](https://github.com/jaredliw/leetcode-solutions/blob/master/0933%20Number%20of%20Recent%20Calls.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=queue&color=5751F0)
 
+977. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Squares of a Sorted Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0977%20Squares%20of%20a%20Sorted%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A
+
 1051. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Height Checker](https://github.com/jaredliw/leetcode-solutions/blob/master/1051%20Height%20Checker.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
 1078. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Occurrences After Bigram](https://github.com/jaredliw/leetcode-solutions/blob/master/1078%20Occurrences%20After%20Bigram.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
