@@ -166,6 +166,8 @@ Python solutions of problems from Leetcode.
 
 941. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Valid Mountain Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0941%20Valid%20Mountain%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+944. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Delete Columns to Make Sorted](https://github.com/jaredliw/leetcode-solutions/blob/master/0944%20Delete%20Columns%20to%20Make%20Sorted.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 977. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Squares of a Sorted Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0977%20Squares%20of%20a%20Sorted%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A
 
 1051. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Height Checker](https://github.com/jaredliw/leetcode-solutions/blob/master/1051%20Height%20Checker.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
