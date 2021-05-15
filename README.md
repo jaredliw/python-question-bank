@@ -118,6 +118,8 @@ Python solutions of problems from Leetcode.
 
 551. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Student Attendance Record I](https://github.com/jaredliw/leetcode-solutions/blob/master/0551%20Student%20Attendance%20Record%20I.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+557. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Reverse Words in a String III](https://github.com/jaredliw/leetcode-solutions/blob/master/0557%20Reverse%20Words%20in%20a%20String%20III.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 595. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Big Countries](https://github.com/jaredliw/leetcode-solutions/blob/master/0595%20Big%20Countries.sql) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sql&color=FCE205)
 
 605. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Can Place Flowers](https://github.com/jaredliw/leetcode-solutions/blob/master/0605%20Can%20Place%20Flowers.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
