@@ -155,6 +155,8 @@ Python solutions of problems from Leetcode.
 
 807. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Max Increase to Keep City Skyline](https://github.com/jaredliw/leetcode-solutions/blob/master/0807%20Max%20Increase%20to%20Keep%20City%20Skyline.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
+824. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Goat Latin](https://github.com/jaredliw/leetcode-solutions/blob/master/0824%20Goat%20Latin.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Flipping an Image](https://github.com/jaredliw/leetcode-solutions/blob/master/0832%20Flipping%20an%20Image.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 867. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Transpose Matrix](https://github.com/jaredliw/leetcode-solutions/blob/master/0867%20Transpose%20Matrix.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
