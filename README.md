@@ -303,6 +303,8 @@ Python solutions of problems from Leetcode.
 
 1791. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Find Center of Star Graph](https://github.com/jaredliw/leetcode-solutions/blob/master/1791%20Find%20Center%20of%20Star%20Graph.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=graph&color=010870)
 
+1796. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Second Largest Digit in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/1796%20Second%20Largest%20Digit%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
+
 1805. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Different Integers in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/1805%20Number%20of%20Different%20Integers%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=regex&color=F637DD)
 
 1812. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Determine Color of a Chessboard Square](https://github.com/jaredliw/leetcode-solutions/blob/master/1812%20Determine%20Color%20of%20a%20Chessboard%20Square.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)  ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
