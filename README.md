@@ -223,6 +223,8 @@ Python solutions of problems from Leetcode.
 
 1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 
+1446. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Consecutive Characters](https://github.com/jaredliw/leetcode-solutions/blob/master/1446%20Consecutive%20Characters.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 1450. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Students Doing Homework at a Given Time](https://github.com/jaredliw/leetcode-solutions/blob/master/1450%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1455. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/jaredliw/leetcode-solutions/blob/master/1455%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
