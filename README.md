@@ -94,6 +94,8 @@ Python solutions of problems from Leetcode.
 
 383. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Ransom Note](https://github.com/jaredliw/leetcode-solutions/blob/master/0383%20Ransom%20Note.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+387. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [First Unique Character in a String](https://github.com/jaredliw/leetcode-solutions/blob/master/0387%20First%20Unique%20Character%20in%20a%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306
+
 389. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Find the Difference](https://github.com/jaredliw/leetcode-solutions/blob/master/0389%20Find%20the%20Difference.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 412. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Fizz Buzz](https://github.com/jaredliw/leetcode-solutions/blob/master/0412%20Fizz%20Buzz.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
