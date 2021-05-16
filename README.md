@@ -292,6 +292,8 @@ Python solutions of problems from Leetcode.
 
 1732. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Find the Highest Altitude](https://github.com/jaredliw/leetcode-solutions/blob/master/1732%20Find%20the%20Highest%20Altitude.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1736. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Latest Time by Replacing Hidden Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/1736%20Latest%20Time%20by%20Replacing%20Hidden%20Digits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 1748. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sum of Unique Elements](https://github.com/jaredliw/leetcode-solutions/blob/master/1748%20Sum%20of%20Unique%20Elements.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 
 1768. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Merge Strings Alternately](https://github.com/jaredliw/leetcode-solutions/blob/master/1768%20Merge%20Strings%20Alternately.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
