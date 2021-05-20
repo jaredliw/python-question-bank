@@ -24,7 +24,6 @@ class SeatManager(object):
         # The function insert the value to the list at an appropriate place so that the list is remained sorted.
         insort(self.seats, seatNumber)
 
-
 # Your SeatManager object will be instantiated and called as such:
 # obj = SeatManager(n)
 # param_1 = obj.reserve()

@@ -8,7 +8,7 @@ class Solution(object):
         # Runtime: 28 ms
         # Memory: 13.7 MB
         return self.hash(s) == self.hash(t)
-    
+
     def hash(self, string):
         hashmap = {}
         max_id = 1

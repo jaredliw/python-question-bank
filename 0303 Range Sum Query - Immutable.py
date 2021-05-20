@@ -22,7 +22,6 @@ class NumArray(object):
         else:
             return self.prefix_sum[right] - self.prefix_sum[left - 1]
 
-
 # Your NumArray object will be instantiated and called as such:
 # obj = NumArray(nums)
 # param_1 = obj.sumRange(left,right)
