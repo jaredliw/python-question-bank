@@ -112,6 +112,8 @@ Python solutions of problems from Leetcode.
 
 455. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Assign Cookies](https://github.com/jaredliw/leetcode-solutions/blob/master/0455%20Assign%20Cookies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
+461. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Hamming Distance](https://github.com/jaredliw/leetcode-solutions/blob/master/0461%20Hamming%20Distance.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
+
 476. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number Complement](https://github.com/jaredliw/leetcode-solutions/blob/master/0476%20Number%20Complement.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 485. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Max Consecutive Ones](https://github.com/jaredliw/leetcode-solutions/blob/master/0485%20Max%20Consecutive%20Ones.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
