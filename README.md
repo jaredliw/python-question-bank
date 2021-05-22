@@ -246,6 +246,8 @@ Python solutions of problems from Leetcode.
 
 1436. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Destination City](https://github.com/jaredliw/leetcode-solutions/blob/master/1436%20Destination%20City.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
 
+1441. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Build an Array With Stack Operations](https://github.com/jaredliw/leetcode-solutions/blob/master/1441%20Build%20an%20Array%20With%20Stack%20Operations.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
+
 1446. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Consecutive Characters](https://github.com/jaredliw/leetcode-solutions/blob/master/1446%20Consecutive%20Characters.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 1450. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Students Doing Homework at a Given Time](https://github.com/jaredliw/leetcode-solutions/blob/master/1450%20Number%20of%20Students%20Doing%20Homework%20at%20a%20Given%20Time.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
