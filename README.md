@@ -172,6 +172,8 @@ Python solutions of problems from Leetcode.
 
 824. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Goat Latin](https://github.com/jaredliw/leetcode-solutions/blob/master/0824%20Goat%20Latin.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+830. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Positions of Large Groups](https://github.com/jaredliw/leetcode-solutions/blob/master/0830%20Positions%20of%20Large%20Groups.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Flipping an Image](https://github.com/jaredliw/leetcode-solutions/blob/master/0832%20Flipping%20an%20Image.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 852. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Peak Index in a Mountain Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0852%20Peak%20Index%20in%20a%20Mountain%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C)
@@ -205,6 +207,8 @@ Python solutions of problems from Leetcode.
 1108. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Defanging an IP Address](https://github.com/jaredliw/leetcode-solutions/blob/master/1108%20Defanging%20an%20IP%20Address.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 1137. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [N-th Tribonacci Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1137%20N-th%20Tribonacci%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
+1184. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Distance Between Bus Stops](https://github.com/jaredliw/leetcode-solutions/blob/master/1184%20Distance%20Between%20Bus%20Stops.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1189. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Maximum Number of Balloons](https://github.com/jaredliw/leetcode-solutions/blob/master/1189%20Maximum%20Number%20of%20Balloons.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
