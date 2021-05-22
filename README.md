@@ -174,6 +174,8 @@ Python solutions of problems from Leetcode.
 
 832. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Flipping an Image](https://github.com/jaredliw/leetcode-solutions/blob/master/0832%20Flipping%20an%20Image.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+852. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Peak Index in a Mountain Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0852%20Peak%20Index%20in%20a%20Mountain%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C)
+
 867. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Transpose Matrix](https://github.com/jaredliw/leetcode-solutions/blob/master/0867%20Transpose%20Matrix.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 876. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Middle of the Linked List](https://github.com/jaredliw/leetcode-solutions/blob/master/0876%20Middle%20Of%20the%20Linked%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
