@@ -305,6 +305,8 @@ Python solutions of problems from Leetcode.
 
 1704. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Determine if String Halves Are Alike](https://github.com/jaredliw/leetcode-solutions/blob/master/1704%20Determine%20if%20String%20Halves%20Are%20Alike.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+1710. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Maximum Units on a Truck](https://github.com/jaredliw/leetcode-solutions/blob/master/1710%20Maximum%20Units%20on%20a%20Truck.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
+
 1716. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Calculate Money in Leetcode Bank](https://github.com/jaredliw/leetcode-solutions/blob/master/1716%20Calculate%20Money%20in%20Leetcode%20Bank.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1720. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Decode XORed Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1720%20Decode%20XORed%20Array) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC)
