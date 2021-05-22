@@ -264,6 +264,8 @@ Python solutions of problems from Leetcode.
 
 1455. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://github.com/jaredliw/leetcode-solutions/blob/master/1455%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+1464. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Maximum Product of Two Elements in an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1464%20Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1470. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Shuffle the Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1470%20Shuffle%20the%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1476. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Subrectangle Queries](https://github.com/jaredliw/leetcode-solutions/blob/master/1476%20Subrectangle%20Queries.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
