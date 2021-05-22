@@ -84,6 +84,8 @@ Python solutions of problems from Leetcode.
 
 268. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Missing Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0268%20Missing%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+278. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [First Bad Version](https://github.com/jaredliw/leetcode-solutions/blob/master/0278%20First%20Bad%20Version.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C)
+
 283. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Move Zeroes](https://github.com/jaredliw/leetcode-solutions/blob/master/0283%20Move%20Zeroes.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E)
 
 303. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Range Sum Query - Immutable](https://github.com/jaredliw/leetcode-solutions/blob/master/0303%20Range%20Sum%20Query%20-%20Immutable.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=prefix-sum&color=E8944A)
