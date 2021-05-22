@@ -148,6 +148,8 @@ Python solutions of problems from Leetcode.
 
 657. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Robot Return to Origin](https://github.com/jaredliw/leetcode-solutions/blob/master/0657%20Robot%20Return%20to%20Origin.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+674. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Longest Continuous Increasing Subsequence](https://github.com/jaredliw/leetcode-solutions/blob/master/0674%20Longest%20Continuous%20Increasing%20Subsequence.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 693. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Binary Number with Alternating Bits](https://github.com/jaredliw/leetcode-solutions/blob/master/0693%20Binary%20Number%20with%20Alternating%20Bits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 704. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Binary Search](https://github.com/jaredliw/leetcode-solutions/blob/master/0704%20Binary%20Search.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C)
