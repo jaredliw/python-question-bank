@@ -176,6 +176,8 @@ Python solutions of problems from Leetcode.
 
 807. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Max Increase to Keep City Skyline](https://github.com/jaredliw/leetcode-solutions/blob/master/0807%20Max%20Increase%20to%20Keep%20City%20Skyline.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
+811. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Subdomain Visit Count](https://github.com/jaredliw/leetcode-solutions/blob/master/0811%20Subdomain%20Visit%20Count.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 824. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Goat Latin](https://github.com/jaredliw/leetcode-solutions/blob/master/0824%20Goat%20Latin.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 830. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Positions of Large Groups](https://github.com/jaredliw/leetcode-solutions/blob/master/0830%20Positions%20of%20Large%20Groups.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
