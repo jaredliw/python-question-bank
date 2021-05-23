@@ -107,6 +107,8 @@ Python solutions of problems from Leetcode.
 
 405. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Convert a Number to Hexadecimal](https://github.com/jaredliw/leetcode-solutions/blob/master/0405%20Convert%20a%20Number%20to%20Hexadecimal.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+409. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Longest Palindrome](https://github.com/jaredliw/leetcode-solutions/blob/master/0409%20Longest%20Palindrome.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
+
 412. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Fizz Buzz](https://github.com/jaredliw/leetcode-solutions/blob/master/0412%20Fizz%20Buzz.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 414. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Third Maximum Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0414%20Third%20Maximum%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
