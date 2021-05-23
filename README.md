@@ -204,6 +204,8 @@ Python solutions of problems from Leetcode.
 
 912. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Sort an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0912%20Sort%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
+929. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Unique Email Addresses](https://github.com/jaredliw/leetcode-solutions/blob/master/0929%20Unique%20Email%20Addresses.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6)
+
 933. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number of Recent Calls](https://github.com/jaredliw/leetcode-solutions/blob/master/0933%20Number%20of%20Recent%20Calls.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=queue&color=5751F0)
 
 941. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Valid Mountain Array](https://github.com/jaredliw/leetcode-solutions/blob/master/0941%20Valid%20Mountain%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
