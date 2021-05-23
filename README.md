@@ -247,6 +247,8 @@ Python solutions of problems from Leetcode.
 
 1299. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Replace Elements with Greatest Element on Right Side](https://github.com/jaredliw/leetcode-solutions/blob/master/1299%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1304. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Find N Unique Integers Sum up to Zero](https://github.com/jaredliw/leetcode-solutions/blob/master/1304%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 1309. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Decrypt String from Alphabet to Integer Mapping](https://github.com/jaredliw/leetcode-solutions/blob/master/1309%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 1313. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Decompress Run-Length Encoded List](https://github.com/jaredliw/leetcode-solutions/blob/master/1313%20Decompress%20Run-Length%20Encoded%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
