@@ -310,6 +310,8 @@ Python solutions of problems from Leetcode.
 
 1512. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Number of Good Pairs](https://github.com/jaredliw/leetcode-solutions/blob/master/1512%20Number%20of%20Good%20Pairs.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1518. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Water Bottles](https://github.com/jaredliw/leetcode-solutions/blob/master/1518%20Water%20Bottles.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 1523. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Odd Numbers in an Interval Range](https://github.com/jaredliw/leetcode-solutions/blob/master/1523%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 1528. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Shuffle String](https://github.com/jaredliw/leetcode-solutions/blob/master/1528%20Shuffle%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
