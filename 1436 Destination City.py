@@ -23,6 +23,6 @@ class Solution(object):
         while True:
             try:
                 destination = hashmap[destination]
-            except:
+            except KeyError:
                 break
         return destination

@@ -10,5 +10,5 @@ class Solution(object):
         for num in arr:
             counter.setdefault(num, 0)
             counter[num] += 1
-        
+
         return len(set(counter.values())) == len(counter.values())

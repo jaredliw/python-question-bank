@@ -68,7 +68,7 @@ class Solution(object):
         for idx in range(1, len(coordinates)):
             try:
                 cur_gradient = (coordinates[idx - 1][1] - coordinates[idx][1]) / (
-                            coordinates[idx - 1][0] - coordinates[idx][0])
+                        coordinates[idx - 1][0] - coordinates[idx][0])
             except ZeroDivisionError:
                 cur_gradient = float("inf")
             if gradient is None:

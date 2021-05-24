@@ -10,11 +10,11 @@ class Solution(object):
         words = s.split()
         if len(words) != len(pattern):
             return False
-        
+
         # Two-way hashmap
         seen_words = []
         seen_letters = []
-        
+
         for idx, word in enumerate(words):
             if word in seen_words:
                 if seen_letters[seen_words.index(word)] != pattern[idx]:

@@ -23,5 +23,5 @@ class Solution(object):
         # Memory: 13.4 MB
         try:
             return len(s.split()[-1])
-        except:
+        except IndexError:
             return 0

@@ -35,5 +35,5 @@ class Solution(object):
         # Linear search
         try:
             return nums.index(target)
-        except:
+        except ValueError:
             return -1

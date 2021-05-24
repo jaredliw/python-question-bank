@@ -14,6 +14,7 @@ class Solution(object):
         # Memory: 13.6 MB
         last_div = 0
         head = None
+        cur = None
         for val1, val2 in self.iterLists(l1, l2):
             div, mod = divmod(val1 + val2 + last_div, 10)
             if head is None:

@@ -13,6 +13,9 @@ class Solution(object):
         return ans ^ num
 
 
+from math import log
+
+
 class Solution(object):
     def findComplement(self, num):
         """

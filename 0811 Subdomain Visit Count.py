@@ -15,7 +15,7 @@ class Solution(object):
                 subdomain = ".".join(subdomains[idx:])
                 hashmap.setdefault(subdomain, 0)
                 hashmap[subdomain] += count
-        
+
         ans = []
         for sd, c in hashmap.items():
             ans.append(" ".join([str(c), sd]))

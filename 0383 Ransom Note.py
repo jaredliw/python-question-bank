@@ -11,5 +11,5 @@ class Solution(object):
         try:
             [magazine.remove(char) for char in ransomNote]
             return True
-        except:
+        except ValueError:
             return False

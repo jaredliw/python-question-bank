@@ -6,7 +6,7 @@ class Solution(object):
         """
         # Runtime: 56 ms
         # Memory: 15 MB
-        
+
         # O(n) solution
         for idx in range(len(arr) - 1):
             if arr[idx + 1] < arr[idx]:
@@ -21,7 +21,7 @@ class Solution(object):
         """
         # Runtime: 52 ms
         # Memory: 14.7 MB
-        
+
         # O(log n) solution
         left = 0
         right = len(arr) - 1
