@@ -335,6 +335,8 @@ Python solutions of problems from Leetcode.
 
 1556. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Thousand Separator](https://github.com/jaredliw/leetcode-solutions/blob/master/1556%20Thousand%20Separator.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+1572. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Matrix Diagonal Sum](https://github.com/jaredliw/leetcode-solutions/blob/master/1572%20Matrix%20Diagonal%20Sum.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1588. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Sum of All Odd Length Subarrays](https://github.com/jaredliw/leetcode-solutions/blob/master/1588%20Sum%20of%20All%20Odd%20Length%20Subarrays.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=prefix-sum&color=E8944A)
 
 1598. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Crawler Log Folder](https://github.com/jaredliw/leetcode-solutions/blob/master/1598%20Crawler%20Log%20Folder.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
