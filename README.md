@@ -231,6 +231,8 @@ Python solutions of problems from Leetcode.
 
 1137. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [N-th Tribonacci Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1137%20N-th%20Tribonacci%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1175. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Prime Arrangements](https://github.com/jaredliw/leetcode-solutions/blob/master/1175%20Prime%20Arrangements.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 1184. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Distance Between Bus Stops](https://github.com/jaredliw/leetcode-solutions/blob/master/1184%20Distance%20Between%20Bus%20Stops.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1189. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Maximum Number of Balloons](https://github.com/jaredliw/leetcode-solutions/blob/master/1189%20Maximum%20Number%20of%20Balloons.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
