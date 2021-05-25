@@ -82,6 +82,8 @@ Python solutions of problems from Leetcode.
 
 258. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Add Digits](https://github.com/jaredliw/leetcode-solutions/blob/master/0258%20Add%20Digits.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+263. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Ugly Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0263%20Ugly%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
+
 268. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Missing Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0268%20Missing%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 278. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [First Bad Version](https://github.com/jaredliw/leetcode-solutions/blob/master/0278%20First%20Bad%20Version.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C)
