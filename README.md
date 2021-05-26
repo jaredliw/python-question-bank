@@ -274,6 +274,8 @@ Python solutions of problems from Leetcode.
 
 1374. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Generate a String With Characters That Have Odd Counts](https://github.com/jaredliw/leetcode-solutions/blob/master/1374%20Generate%20a%20String%20With%20Characters%20That%20Have%20Odd%20Counts.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+1394. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Find Lucky Integer in an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/1394%20Find%20Lucky%20Integer%20in%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 1418. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Display Table of Food Orders in a Restaurant](https://github.com/jaredliw/leetcode-solutions/blob/master/1418%20Display%20Table%20of%20Food%20Orders%20in%20a%20Restaurant.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6)
 
 1323. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum 69 Number](https://github.com/jaredliw/leetcode-solutions/blob/master/1323%20Maximum%2069%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
