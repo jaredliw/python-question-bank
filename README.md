@@ -187,6 +187,8 @@ Python solutions of problems from Leetcode.
 
 771. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Jewels and Stones](https://github.com/jaredliw/leetcode-solutions/blob/master/0771%20Jewels%20and%20Stones.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+796. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Rotate String](https://github.com/jaredliw/leetcode-solutions/blob/master/0796%20Rotate%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 804. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Unique Morse Code Words](https://github.com/jaredliw/leetcode-solutions/blob/master/0804%20Unique%20Morse%20Code%20Words.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 806. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Number of Lines To Write String](https://github.com/jaredliw/leetcode-solutions/blob/master/0806%20Number%20of%20Lines%20To%20Write%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
