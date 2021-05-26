@@ -178,6 +178,8 @@ Python solutions of problems from Leetcode.
 
 724. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Find Pivot Index](https://github.com/jaredliw/leetcode-solutions/blob/master/0724%20Find%20Pivot%20Index.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=prefix-sum&color=E8944A)
 
+728. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Self Dividing Numbers](https://github.com/jaredliw/leetcode-solutions/blob/master/0728%20Self%20Dividing%20Numbers.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+
 744. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Find Smallest Letter Greater Than Target](https://github.com/jaredliw/leetcode-solutions/blob/master/0744%20Find%20Smallest%20Letter%20Greater%20Than%20Target.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 747. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Largest Number At Least Twice of Others](https://github.com/jaredliw/leetcode-solutions/blob/master/0747%20Largest%20Number%20At%20Least%20Twice%20of%20Others.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
