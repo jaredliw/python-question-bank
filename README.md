@@ -144,6 +144,8 @@ Python solutions of problems from Leetcode.
 
 507. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Perfect Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0507%20Perfect%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+509. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Fibonacci Number](https://github.com/jaredliw/leetcode-solutions/blob/master/0509%20Fibonacci%20Number.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=fibonacci&color=E9D346)
+
 520. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Detect Capital](https://github.com/jaredliw/leetcode-solutions/blob/master/0520%20Detect%20Capital.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 525. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Duplicate Zeros](https://github.com/jaredliw/leetcode-solutions/blob/master/0525%20Duplicate%20Zeros.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E)
