@@ -36,6 +36,8 @@ Python solutions of problems from Leetcode.
 
 58. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Length of Last Word](https://github.com/jaredliw/leetcode-solutions/blob/master/0058%20Length%20of%20Last%20Word.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+61. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Rotate List](https://github.com/jaredliw/leetcode-solutions/blob/master/0061%20Rotate%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
+
 66. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Plus One](https://github.com/jaredliw/leetcode-solutions/blob/master/0066%20Plus%20One.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 67. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Add Binary](https://github.com/jaredliw/leetcode-solutions/blob/master/0067%20Add%20Binary.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
