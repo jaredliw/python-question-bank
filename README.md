@@ -345,6 +345,8 @@ Python solutions of problems from Leetcode.
 
 1534. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Count Good Triplets](https://github.com/jaredliw/leetcode-solutions/blob/master/1534%20Count%20Good%20Triplets.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+1544. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Make The String Great](https://github.com/jaredliw/leetcode-solutions/blob/master/1544%20Make%20The%20String%20Great.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
+
 1550. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Three Consecutive Odds](https://github.com/jaredliw/leetcode-solutions/blob/master/1550%20Three%20Consecutive%20Odds.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 1556. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Thousand Separator](https://github.com/jaredliw/leetcode-solutions/blob/master/1556%20Thousand%20Separator.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
