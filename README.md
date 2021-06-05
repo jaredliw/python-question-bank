@@ -242,6 +242,8 @@ Python solutions of problems from Leetcode.
 
 1009. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Complement of Base 10 Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/1009%20Complement%20of%20Base%2010%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
+1021. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Remove Outermost Parentheses](https://github.com/jaredliw/leetcode-solutions/blob/master/1021%20Remove%20Outermost%20Parentheses.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
+
 1047. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Remove All Adjacent Duplicates In String](https://github.com/jaredliw/leetcode-solutions/blob/master/1047%20Remove%20All%20Adjacent%20Duplicates%20In%20String.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
 
 1051. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Height Checker](https://github.com/jaredliw/leetcode-solutions/blob/master/1051%20Height%20Checker.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
