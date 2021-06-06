@@ -12,6 +12,7 @@ Python solutions of problems from various competitive programming platforms.
 
 ### Kattis
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Basketball One-on-One](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Basketball%20One-on-One.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+- ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Batter Up](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Batter%20Up.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Bela](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Bela.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Bijele](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Bijele.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Chanukah Challenge](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Chanukah%20Challenge.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
