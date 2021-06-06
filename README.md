@@ -12,6 +12,7 @@ Python solutions of problems from various competitive programming platforms.
 
 ### Kattis
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Basketball One-on-One](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Basketball%20One-on-One.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+- ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Laptop Sticker](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Laptop%20Sticker.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Last Factorial Digit](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Last%20Factorial%20Digit.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Magic Trick](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Magic%20Trick.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Nasty Hacks](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Nasty%20Hacks.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
