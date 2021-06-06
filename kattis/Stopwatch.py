@@ -1,3 +1,4 @@
+# CPU: 0.07 s
 n = int(input())
 if n % 2 == 1:
     print("still running")

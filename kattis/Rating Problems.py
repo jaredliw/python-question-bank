@@ -1,3 +1,4 @@
+# CPU: 0.05 s
 n_judges, n_ratings = map(int, input().split())
 sum_ = 0
 for _ in range(n_ratings):

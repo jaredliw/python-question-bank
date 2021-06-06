@@ -1,3 +1,4 @@
+# CPU: 0.02 s
 nums = int(input())
 ans = 0
 for x in range(nums):

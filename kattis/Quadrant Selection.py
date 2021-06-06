@@ -1,3 +1,4 @@
+# CPU: 0.06 s
 x_positive, y_positive = int(input()) > 0, int(input()) > 0
 if x_positive and y_positive:
     print(1)

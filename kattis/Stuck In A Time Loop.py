@@ -1,2 +1,3 @@
-for x in range(int(input())):
-    print(x + 1, "Abracadabra")
+# CPU: 0.02 s
+for x in range(1, int(input()) + 1):
+    print(x, "Abracadabra")

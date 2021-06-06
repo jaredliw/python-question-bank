@@ -1,3 +1,4 @@
+# CPU: 0.06 s
 available = int(input())
 months = int(input())
 available *= months + 1
