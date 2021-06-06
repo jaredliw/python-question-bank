@@ -12,6 +12,7 @@ Python solutions of problems from various competitive programming platforms.
 
 ### Kattis
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Basketball One-on-One](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Basketball%20One-on-One.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+- ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Tarifa](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Tarifa.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
 ### Leetcode
 1. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Two Sum](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0001%20Two%20Sum.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D)
