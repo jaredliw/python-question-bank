@@ -209,6 +209,8 @@ Python solutions of problems from various competitive programming platforms.
 
 455. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Assign Cookies](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0455%20Assign%20Cookies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
+459. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Repeated Substring Pattern](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0459%20Repeated%20Substring%20Pattern.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 461. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Hamming Distance](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0461%20Hamming%20Distance.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 463. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Island Perimeter](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0463%20Island%20Perimeter.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
