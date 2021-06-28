@@ -1,7 +1,7 @@
 # CPU: 0.05 s
 start, end, _ = map(int, input().split())
 walk = list(map(int, input().split()))
-bus = list(map(int,  input().split()))
+bus = list(map(int, input().split()))
 interval = list(map(int, input().split()))
 
 for idx in range(len(walk)):

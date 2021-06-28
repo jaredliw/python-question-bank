@@ -1,6 +1,6 @@
 # CPU: 0.06 s
 x, y, n = map(int, input().split())
-for num in range(1, n+1):
+for num in range(1, n + 1):
     divisible = False
     if num % x == 0:
         print('Fizz', end='')

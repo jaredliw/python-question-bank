@@ -1,3 +1,4 @@
+# CPU: 0.06 s
 missed = False
 last = 0
 for _ in range(int(input())):

@@ -1,6 +1,6 @@
-# runtime: 0.06 s
-from sys import stdin
+# CPU: 0.06 s
 from functools import reduce
+from sys import stdin
 
 cost = float(input())
 input()
