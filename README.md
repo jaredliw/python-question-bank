@@ -150,6 +150,8 @@ Python solutions of problems from various competitive programming platforms.
 
 83. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Remove Duplicates from Sorted List](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0083%20Remove%20Duplicates%20from%20Sorted%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 
+86. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Partition List](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0086%20Partition%20List.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
+
 88. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Merge Sorted Array](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0088%20Merge%20Sorted%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sorting&color=88582A)
 
 92. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Reverse Linked List II](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0092%20Reverse%20Linked%20List%20II.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
