@@ -1,3 +1,4 @@
+# CPU: 0.06 s
 for _ in range(int(input())):
 	tc_no, num = input().split()
 	try:
