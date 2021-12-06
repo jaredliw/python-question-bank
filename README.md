@@ -27,6 +27,14 @@ Python solutions of problems from various competitive programming platforms.
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Calculator](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Calculator.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Chanukah Challenge](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Chanukah%20Challenge.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Cold-puter Science](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Cold-puter%20Science.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+- ![](https://img.shields.io/static/v1?style
+=plastic&label=&message=beginner&color=brigh
+tgreen) [Competitive Arcade Basketball](http
+s://github.com/jaredliw/leetcode-solutions/b
+lob/master/kattis/Competitive%20Arcade%20Bas
+ketball.py) ![](https://img.shields.io/stati
+c/v1?style=flat-square&label=&message=implem
+entation&color=2B7697)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Crne](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Crne.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Cryptographer's Conundrum](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Cryptographer's%20Conundrum.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Cudoviste](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/Cudoviste.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
