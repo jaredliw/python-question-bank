@@ -318,6 +318,8 @@ Python solutions of problems from various competitive programming platforms.
 
 557. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Reverse Words in a String III](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0557%20Reverse%20Words%20in%20a%20String%20III.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
+560. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Subarray Sum Equals K](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0560%20Subarray%20Sum%20Equals%20K.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=prefix-sum&color=E8944A)
+
 575. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Distribute Candies](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0575%20Distribute%20Candies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6)
 
 595. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Big Countries](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0595%20Big%20Countries.sql) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=sql&color=FCE205)
