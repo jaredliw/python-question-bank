@@ -1,5 +1,5 @@
-n, m, tolerance = map(int, input().split())
-applicants = list(map(int, input().split()))
+# Time: 0.21 s
+pplicants = list(map(int, input().split()))
 apartments = list(map(int, input().split()))
 applicants.sort()
 apartments.sort()
