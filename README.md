@@ -17,6 +17,7 @@ Python solutions of problems from various competitive programming platforms.
 el=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&
 label=&message=greedy&color=48AAAD) ![](https://img.shields.io/static/v1?style=flat-square&
 label=&message=sorting&color=88582A)
+- ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [1666 Building Roads](https://github.com/jaredliw/leetcode-solutions/blob/master/cses-problem-set/1666%20Building%20Roads.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classical&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashset&color=F6F2A6) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=graph&color=010870) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bfs-dfs&color=6667AB)
 
 ### Kattis
 - ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [A Real Challenge](https://github.com/jaredliw/leetcode-solutions/blob/master/kattis/A%20Real%20Challenge.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
