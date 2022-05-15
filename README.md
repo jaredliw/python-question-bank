@@ -467,6 +467,8 @@ Python solutions of problems from various competitive programming platforms.
 
 989. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Add to Array-Form of Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0989%20Add%20to%20Array-Form%20of%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
+1002. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Find Common Characters](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/1002%20Find%20Common%20Characters.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classic&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=hashmap&color=E9D47D) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
+
 1009. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Complement of Base 10 Integer](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/1009%20Complement%20of%20Base%2010%20Integer.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bit-manipulation&color=08813D)
 
 1021. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Remove Outermost Parentheses](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/1021%20Remove%20Outermost%20Parentheses.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classic&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=stack&color=A3EFAA)
