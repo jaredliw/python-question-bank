@@ -11,7 +11,7 @@ class Solution(object):
         ptr = len(num) - 1
         while k != 0 or last != 0:
             if ptr < 0:
-                num.insert(0, 0)
+                num.add(0, 0)
                 ptr = 0
             k, mod = divmod(k, 10)
             last, num[ptr] = divmod(num[ptr] + mod + last, 10)

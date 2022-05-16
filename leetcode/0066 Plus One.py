@@ -11,7 +11,7 @@ class Solution(object):
         for idx in range(len(digits) - 1, -1, -1):
             last, digits[idx] = divmod(digits[idx] + last, 10)
         if last:
-            digits.insert(0, last)
+            digits.add(0, last)
         return digits
 
 

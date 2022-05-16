@@ -27,6 +27,6 @@ class Solution(object):
         while idx < len(arr):
             if arr[idx] == 0:
                 arr.pop()
-                arr.insert(idx + 1, 0)
+                arr.add(idx + 1, 0)
                 idx += 1
             idx += 1
