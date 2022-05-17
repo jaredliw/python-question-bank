@@ -604,6 +604,8 @@ Python solutions of problems from various competitive programming platforms.
 
 1603. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Design Parking System](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/1603%20Design%20Parking%20System.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=oop&color=C47D65)
 
+1608. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Special Array With X Elements Greater Than or Equal X](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/1608%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C)
+
 1614. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Maximum Nesting Depth of the Parentheses](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/1614%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classic&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=string&color=B8E306)
 
 1629. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Slowest Key](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/1629%20Slowest%20Key.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
