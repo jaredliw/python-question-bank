@@ -356,7 +356,7 @@ Python solutions of problems from various competitive programming platforms.
 
 441. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Arranging Coins](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0441%20Arranging%20Coins.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
 
-448. ![](https://img.shields.io/static/v1?style=plastic&label=&message=hard&color=orange) [Find All Numbers Disappeared in an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0448%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classic&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
+448. ![](https://img.shields.io/static/v1?style=plastic&label=&message=hard&color=red) [Find All Numbers Disappeared in an Array](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0448%20Find%20All%20Numbers%20Disappeared%20in%20an%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classic&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 455. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Assign Cookies](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0455%20Assign%20Cookies.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=greedy&color=48AAAD)
 
