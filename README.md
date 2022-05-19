@@ -278,6 +278,8 @@ Python solutions of problems from various competitive programming platforms.
 
 147. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Insertion Sort List](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0147%20Insertion%20Sort%20List.txt) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 
+153. ![](https://img.shields.io/static/v1?style=plastic&label=&message=medium&color=yellow) [Find Minimum in Rotated Sorted Array](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0153%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C)
+
 160. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Intersection of Two Linked Lists](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0160%20Intersection%20of%20Two%20Linked%20Lists.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=classic&color=86A1AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=linked-list&color=5D0D75)
 
 167. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Two Sum II - Input array is sorted](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0167%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=double-pointer&color=E3050E)
