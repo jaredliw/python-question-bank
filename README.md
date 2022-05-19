@@ -303,6 +303,8 @@ Python solutions of problems from various competitive programming platforms.
 
 217. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Contains Duplicate](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0217%20Contains%20Duplicate.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
+222. ![](https://img.shields.io/static/v1?style=plastic&label=&message=hard&color=red) [Count Complete Tree Nodes](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0222%20Count%20Complete%20Tree%20Nodes.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=tree&color=C03D07) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=bfs-dfs&color=6667AB)
+
 228. ![](https://img.shields.io/static/v1?style=plastic&label=&message=beginner&color=brightgreen) [Summary Ranges](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0228%20Summary%20Ranges.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=implementation&color=2B7697)
 
 231. ![](https://img.shields.io/static/v1?style=plastic&label=&message=easy&color=green) [Power of Two](https://github.com/jaredliw/leetcode-solutions/blob/master/leetcode/0231%20Power%20of%20Two.py) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=binary-search&color=BE525C) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=logic-gate&color=09B8AC) ![](https://img.shields.io/static/v1?style=flat-square&label=&message=math&color=A437CB)
